@@ -1,0 +1,11 @@
+# Ficheiros compilados
+  *.class
+  *.exe
+
+  # Ficheiros do sistema
+  .DS_Store
+  Thumbs.db
+
+  # Pastas de IDEs
+  .idea/
+  .vscode/
